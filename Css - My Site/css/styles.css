@@ -1,0 +1,128 @@
+body {
+  background-color: #EDF6E5;
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', serif;
+  font-weight: bold;
+  font-size: 1em;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-color: #D1D9D9;
+  border-width: 7px;
+  width: 10%;
+}
+
+a {
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  margin: 20px 10px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #4298f5;
+}
+
+.profile-pic {
+  margin-bottom: 40px;
+  width: 15%;
+  height: 15%;
+}
+
+.top-hr {
+  margin-top: 100px;
+}
+
+.short-bio {
+  margin-bottom: 70px;
+}
+
+.my-skills-title {
+  margin-top: 70px;
+}
+
+.top-container {
+  background-color: #EDF6E5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.skill-row {
+  margin: 100px auto 200px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.programming-image {
+  margin-right: 50px;
+  float: left;
+  width: 25%;
+}
+
+.guitar-image {
+  float: right;
+  margin-left: 50px;
+  width: 30%;
+}
+
+.bottom-container {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', serif;
+  font-weight: bold;
+  font-size: 1em;
+}
+
+.top-cloud {
+  margin-right: 15%;
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  margin-left: 15%;
+  position: absolute;
+  left: 300px;
+}
+
+.get-in-touch {
+  margin: 70px auto 40px auto;
+}
+
+.attribute {
+  font-size: 0.7rem;
+}
+
+.copyright {
+  font-size: 1.1rem;
+  font-weight: bold;
+}
